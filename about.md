@@ -9,11 +9,11 @@ sitemap:
 ---
 ## 关于我
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
-
-坐标北京
-临床医学专业二年生
-日本語勉強中
-16年中重新入坑的北京抵抗军
-乃木坂４６　生田絵梨花推し
+<!-- span class="image left"><!img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /><!/span>
+<-->
+<p>坐标北京</p>
+<p>临床医学专业二年生</p>
+<p>日本語勉強中</p>
+<p>16年中重新入坑的北京抵抗军</p>
+<p>乃木坂４６　生田絵梨花推し</p>
 
